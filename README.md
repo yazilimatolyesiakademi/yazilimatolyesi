@@ -1,1 +1,1 @@
-# Selenium Örnek Kodları Eklenecek.
+# Selenium Eğitim Serisinin Örnek Kodları.
